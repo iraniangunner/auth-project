@@ -26,7 +26,7 @@ export default function TopNavigation() {
             <li>
               <Link
                 className="text-secondary-300 animate-underline animate-target"
-                href="/courses"
+                href="/dashboard/courses"
               >
                 دوره‌ها
               </Link>
